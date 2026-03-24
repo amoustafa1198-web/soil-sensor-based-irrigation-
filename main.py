@@ -10,7 +10,7 @@ TOKEN = os.getenv("DATABOOM_TOKEN")
 if not TOKEN:
     raise RuntimeError("DATABOOM_TOKEN is not set")
 
-THRESHOLD = 30.0
+THRESHOLD = 40.0
 
 SOIL_DEVICE_TOKEN = "IF7879-34D35A1"
 SOIL_SIGNAL_TOKEN = "Hum-suolo_1"
