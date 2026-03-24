@@ -16,7 +16,7 @@ SOIL_DEVICE_TOKEN = "IF7879-34D35A1"
 SOIL_SIGNAL_TOKEN = "Hum-suolo_1"
 
 IDS = {
-    "ev": "prog001-ancEV1",
+    "ev": "prog001-SameEv1",
 }
 
 
